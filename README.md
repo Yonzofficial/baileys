@@ -33,9 +33,3 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 - Lightweight & scalable
 
 ---
-
-# Installation
-
-npm install RahmadPasker/baileys
-
----
